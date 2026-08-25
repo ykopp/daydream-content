@@ -1,0 +1,299 @@
+{
+  "contentRevision": 1,
+  "assets": [
+    {
+      "id": "duomo-sunset",
+      "path": "assets/duomo-sunset.jpg",
+      "sha256": "b78ba74ee92b75cff7b98aff8804f6b487153bfc2e1dc404c4af542ed3f1ee4a",
+      "mediaType": "image/jpeg",
+      "width": 3072,
+      "height": 2048,
+      "rightsClass": "open_packaged",
+      "source": {
+        "title": "Florence, Italy, Brunelleschi's Dome at sunset",
+        "url": "https://commons.wikimedia.org/wiki/File:Florence,_Italy,_Brunelleschi%27s_Dome_of_Florence_Cathedral_at_sunset.jpg",
+        "retrievedAt": "2026-08-25",
+        "creator": "Vyacheslav Argenberg",
+        "licenseID": "CC-BY-4.0",
+        "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+        "creditLine": "Vyacheslav Argenberg / Wikimedia Commons, CC BY 4.0"
+      },
+      "transforms": [
+        "resized for Daydream content package"
+      ]
+    },
+    {
+      "id": "duomo-cutaway",
+      "path": "assets/duomo-cutaway.jpg",
+      "sha256": "3169ab7cda853613f1f5062355bf6a3148f6c3ed4120d2e57f84f0aed9adbd16",
+      "mediaType": "image/jpeg",
+      "width": 396,
+      "height": 542,
+      "rightsClass": "open_packaged",
+      "source": {
+        "title": "Brunelleschi's dome cutaway",
+        "url": "https://commons.wikimedia.org/wiki/File:Filippo_Brunelleschi,_cutaway_of_the_Dome_of_Florence_Cathedral_(Santa_Maria_del_Fiore).JPG",
+        "retrievedAt": "2026-08-25",
+        "creator": "Unknown historical illustrator",
+        "licenseID": "PDM-1.0",
+        "licenseURL": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "creditLine": "Wikimedia Commons, Public domain"
+      },
+      "transforms": [
+        "resized for Daydream content package"
+      ]
+    },
+    {
+      "id": "apollo-launch",
+      "path": "assets/apollo11-saturnv-launch.jpg",
+      "sha256": "aa16495b6598592fe869eb30c7ad8e4d481dbacc75aba8a67dc494be3549fa7d",
+      "mediaType": "image/jpeg",
+      "width": 2358,
+      "height": 3000,
+      "rightsClass": "open_packaged",
+      "source": {
+        "title": "Apollo 11 launch",
+        "url": "https://images.nasa.gov/details/6900540",
+        "retrievedAt": "2026-08-25",
+        "creator": "NASA",
+        "licenseID": "LicenseRef-NASA-Media",
+        "licenseURL": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "creditLine": "NASA Image 6900540"
+      },
+      "transforms": [
+        "resized for Daydream content package"
+      ]
+    },
+    {
+      "id": "saturnv-cutaway",
+      "path": "assets/saturnv-cutaway.jpg",
+      "sha256": "0e8fedfe595f480c4dbea9f51ffb805cc9dad7e9b9e26dfd6e26af1470b55385",
+      "mediaType": "image/jpeg",
+      "width": 1024,
+      "height": 791,
+      "rightsClass": "open_packaged",
+      "source": {
+        "title": "Saturn V cutaway",
+        "url": "https://images.nasa.gov/details/9903403",
+        "retrievedAt": "2026-08-25",
+        "creator": "NASA",
+        "licenseID": "LicenseRef-NASA-Media",
+        "licenseURL": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "creditLine": "NASA Image 9903403"
+      },
+      "transforms": [
+        "resized for Daydream content package"
+      ]
+    },
+    {
+      "id": "hubble-telescope",
+      "path": "assets/hubble-telescope.jpg",
+      "sha256": "9422f26f9d1631c179e1e42bbce5c173caf2b539fba5df9a8b84e5e075113b14",
+      "mediaType": "image/jpeg",
+      "width": 1920,
+      "height": 1275,
+      "rightsClass": "open_packaged",
+      "source": {
+        "title": "Hubble Space Telescope",
+        "url": "https://images.nasa.gov/details/GSFC_20171208_Archive_e002151",
+        "retrievedAt": "2026-08-25",
+        "creator": "NASA",
+        "licenseID": "LicenseRef-NASA-Media",
+        "licenseURL": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "creditLine": "NASA"
+      },
+      "transforms": [
+        "resized for Daydream content package"
+      ]
+    },
+    {
+      "id": "hubble-saturn",
+      "path": "assets/hubble-saturn.jpg",
+      "sha256": "45a833a3f606882c4f52baaa162709b9d4db8a15a60df4ca0297e4ac6910c991",
+      "mediaType": "image/jpeg",
+      "width": 2814,
+      "height": 1458,
+      "rightsClass": "open_packaged",
+      "source": {
+        "title": "Saturn from Far and Near — Hubble Space Telescope",
+        "url": "https://images.nasa.gov/details/PIA05982",
+        "retrievedAt": "2026-08-25",
+        "creator": "NASA",
+        "licenseID": "LicenseRef-NASA-Media",
+        "licenseURL": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "creditLine": "NASA/JPL-Caltech/Space Science Institute"
+      },
+      "transforms": [
+        "resized for Daydream content package"
+      ]
+    },
+    {
+      "id": "steam-locomotive",
+      "path": "assets/steam-locomotive.jpg",
+      "sha256": "300d7ec9d4415d0e87e3df3b6eb6bab21a702124c908895b0c05f22062bd217b",
+      "mediaType": "image/jpeg",
+      "width": 5382,
+      "height": 3636,
+      "rightsClass": "open_packaged",
+      "source": {
+        "title": "Chicago & West Michigan steam locomotive 130",
+        "url": "https://commons.wikimedia.org/wiki/File:Chicago_%26_West_Michigan_steam_locomotive_130_Inspector.jpg",
+        "retrievedAt": "2026-08-25",
+        "creator": "Unknown",
+        "licenseID": "PDM-1.0",
+        "licenseURL": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "creditLine": "Wikimedia Commons, Public domain"
+      },
+      "transforms": [
+        "resized for Daydream content package"
+      ]
+    },
+    {
+      "id": "steam-cutaway",
+      "path": "assets/steam-cutaway.jpg",
+      "sha256": "ded18405cef0a09ea393edf84051c3c46ef9d0a3edd20f3ae3b94dafd19dda3a",
+      "mediaType": "image/jpeg",
+      "width": 1400,
+      "height": 981,
+      "rightsClass": "open_packaged",
+      "source": {
+        "title": "Chesapeake and Ohio M-1 steam turbine locomotive cutaway",
+        "url": "https://commons.wikimedia.org/wiki/File:TRAIN_S_USA_CHESAPEAKE_AND_OHIO_RAILROAD_CLASS_M-1_STEAM_TURBINE_LOCO_CUTAWAY_-_ARTIST_UNKNOWN.jpg",
+        "retrievedAt": "2026-08-25",
+        "creator": "Unknown",
+        "licenseID": "PDM-1.0",
+        "licenseURL": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "creditLine": "Wikimedia Commons, Public domain"
+      },
+      "transforms": [
+        "resized for Daydream content package"
+      ]
+    },
+    {
+      "id": "watch-front",
+      "path": "assets/watch-movement-front.jpg",
+      "sha256": "5f5d3ac90953c62928203d10e9b376a250d500648bb930ac4b0b618c89b83dfd",
+      "mediaType": "image/jpeg",
+      "width": 4000,
+      "height": 4000,
+      "rightsClass": "open_packaged",
+      "source": {
+        "title": "Watch movement MET DP-12675-065",
+        "url": "https://commons.wikimedia.org/wiki/File:Watch_movement_MET_DP-12675-065.jpg",
+        "retrievedAt": "2026-08-25",
+        "creator": "Charles Cabrier",
+        "licenseID": "CC0-1.0",
+        "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "creditLine": "The Metropolitan Museum of Art, CC0"
+      },
+      "transforms": [
+        "resized for Daydream content package"
+      ]
+    },
+    {
+      "id": "watch-back",
+      "path": "assets/watch-movement-back.jpg",
+      "sha256": "4eb4be8ce284e221828369a667487069f451ebbb685cbc7365c11db8bff67bd2",
+      "mediaType": "image/jpeg",
+      "width": 4000,
+      "height": 4000,
+      "rightsClass": "open_packaged",
+      "source": {
+        "title": "Watch movement MET DP-12675-066",
+        "url": "https://commons.wikimedia.org/wiki/File:Watch_movement_MET_DP-12675-066.jpg",
+        "retrievedAt": "2026-08-25",
+        "creator": "Charles Cabrier",
+        "licenseID": "CC0-1.0",
+        "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "creditLine": "The Metropolitan Museum of Art, CC0"
+      },
+      "transforms": [
+        "resized for Daydream content package"
+      ]
+    },
+    {
+      "id": "telephone-box",
+      "path": "assets/telephone-1877.jpg",
+      "sha256": "e52592af2e934ab496a9a265302769d40ebfd84639213f853273be900d0137c7",
+      "mediaType": "image/jpeg",
+      "width": 650,
+      "height": 415,
+      "rightsClass": "open_packaged",
+      "source": {
+        "title": "Box telephone of 1877",
+        "url": "https://commons.wikimedia.org/wiki/File:Box_telephone_of_1877.jpg",
+        "retrievedAt": "2026-08-25",
+        "creator": "Unknown",
+        "licenseID": "PDM-1.0",
+        "licenseURL": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "creditLine": "Wikimedia Commons, Public domain"
+      },
+      "transforms": [
+        "resized for Daydream content package"
+      ]
+    },
+    {
+      "id": "telephone-two-boxer",
+      "path": "assets/telephone-two-boxer.jpg",
+      "sha256": "b5f222f09722a90ba37d8f6ba9b2100faa0b60ca01b2af5042c04fef0205c8d0",
+      "mediaType": "image/jpeg",
+      "width": 3615,
+      "height": 4925,
+      "rightsClass": "open_packaged",
+      "source": {
+        "title": "Glass front two-boxer telephone",
+        "url": "https://commons.wikimedia.org/wiki/File:Glass_front_two-boxer_telephone,_made_by_Chicago_Telephone_Supply_Company_-_Telephone_Museum_-_Waltham,_Massachusetts_-_DSC08125.jpg",
+        "retrievedAt": "2026-08-25",
+        "creator": "Daderot",
+        "licenseID": "CC0-1.0",
+        "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "creditLine": "Daderot / Wikimedia Commons, CC0"
+      },
+      "transforms": [
+        "resized for Daydream content package"
+      ]
+    },
+    {
+      "id": "calotype-camera",
+      "path": "assets/calotype-camera.jpg",
+      "sha256": "93c682d19af9958ebe9f1c7267b698af9334f7e98dbf51236a04e2dcfa935232",
+      "mediaType": "image/jpeg",
+      "width": 4032,
+      "height": 3024,
+      "rightsClass": "open_packaged",
+      "source": {
+        "title": "Early calotype camera, c1840",
+        "url": "https://commons.wikimedia.org/wiki/File:Early_calotype_camera,_c1840.JPG",
+        "retrievedAt": "2026-08-25",
+        "creator": "Alf van Beem",
+        "licenseID": "CC0-1.0",
+        "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "creditLine": "Alf van Beem, CC0"
+      },
+      "transforms": [
+        "resized for Daydream content package"
+      ]
+    },
+    {
+      "id": "brady-camera",
+      "path": "assets/brady-camera.jpg",
+      "sha256": "b10f4dfa24305634f34184ec4124e7290f6d5feb616970b15f74499ae9e8f867",
+      "mediaType": "image/jpeg",
+      "width": 1216,
+      "height": 3000,
+      "rightsClass": "open_packaged",
+      "source": {
+        "title": "Historic Mathew Brady Studio Camera, circa early 1860s",
+        "url": "https://commons.wikimedia.org/wiki/File:Historic_Mathew_Brady_Studio_Camera,_circa_Early_1860s_01.jpg",
+        "retrievedAt": "2026-08-25",
+        "creator": "Heritage Auctions / unknown manufacturer",
+        "licenseID": "PDM-1.0",
+        "licenseURL": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "creditLine": "Wikimedia Commons, Public domain"
+      },
+      "transforms": [
+        "resized for Daydream content package"
+      ]
+    }
+  ]
+}
