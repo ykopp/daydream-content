@@ -1,6 +1,6 @@
 {
-  "contentRevision": 1787714553,
-  "contentVersion": "1.3.0",
+  "contentRevision": 1787733159,
+  "contentVersion": "1.4.0",
   "assets": [
     {
       "id": "duomo-sunset",
@@ -294,6 +294,342 @@
       },
       "transforms": [
         "resized for Daydream content package"
+      ]
+    },
+    {
+      "id": "eiffel-day",
+      "path": "assets/eiffel-day.jpg",
+      "sha256": "93fea16e8f7cd67fb0367c049134db0b22d4d0da49b59cec7cee66a38f216aad",
+      "mediaType": "image/jpeg",
+      "width": 2400,
+      "height": 1600,
+      "rightsClass": "open_packaged",
+      "source": {
+        "title": "Eiffel Tower in 2022 02.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Eiffel_Tower_in_2022_02.jpg",
+        "retrievedAt": "2026-08-26",
+        "creator": "Maksim Sokolov (maxergon.com)",
+        "licenseID": "CC-BY-SA-4.0",
+        "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "creditLine": "Maksim Sokolov (maxergon.com) / Wikimedia Commons, CC BY-SA 4.0"
+      },
+      "transforms": [
+        "downloaded from Wikimedia Commons and normalized to a maximum 2400 px edge for Daydream"
+      ]
+    },
+    {
+      "id": "eiffel-construction",
+      "path": "assets/eiffel-construction.jpg",
+      "sha256": "f3f04b8372fa9389e6e3a7b9b5afdc9876fa2c0400ebc31d06458e2382ef505c",
+      "mediaType": "image/jpeg",
+      "width": 1886,
+      "height": 2400,
+      "rightsClass": "open_packaged",
+      "source": {
+        "title": "Louis-Emile Durandelle, The Eiffel Tower - State of the Construction, 1888.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Louis-Emile_Durandelle,_The_Eiffel_Tower_-_State_of_the_Construction,_1888.jpg",
+        "retrievedAt": "2026-08-26",
+        "creator": "Louis-Émile Durandelle",
+        "licenseID": "PDM-1.0",
+        "licenseURL": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "creditLine": "Louis-Émile Durandelle / Wikimedia Commons, Public domain"
+      },
+      "transforms": [
+        "downloaded from Wikimedia Commons and normalized to a maximum 2400 px edge for Daydream"
+      ]
+    },
+    {
+      "id": "sydney-shells",
+      "path": "assets/sydney-opera-shells.jpg",
+      "sha256": "072f04cd5aeb077e4948915cdb1478adb0d17b6585167d0c15bc9933f430187a",
+      "mediaType": "image/jpeg",
+      "width": 2400,
+      "height": 1600,
+      "rightsClass": "open_packaged",
+      "source": {
+        "title": "Sydney (AU), Opera House -- 2019 -- 2130.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Sydney_(AU),_Opera_House_--_2019_--_2130.jpg",
+        "retrievedAt": "2026-08-26",
+        "creator": "Dietmar Rabich",
+        "licenseID": "CC-BY-SA-4.0",
+        "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "creditLine": "Dietmar Rabich / Wikimedia Commons, CC BY-SA 4.0"
+      },
+      "transforms": [
+        "downloaded from Wikimedia Commons and normalized to a maximum 2400 px edge for Daydream"
+      ]
+    },
+    {
+      "id": "sydney-harbour",
+      "path": "assets/sydney-opera-harbour.jpg",
+      "sha256": "9edd1ef6a6c9c6fafc5f54ef9b1bbc395301819be08bd9b0b5223c8160c6ccdb",
+      "mediaType": "image/jpeg",
+      "width": 2400,
+      "height": 1350,
+      "rightsClass": "open_packaged",
+      "source": {
+        "title": "Sydney (AU), Opera House -- 2019 -- 2152.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Sydney_(AU),_Opera_House_--_2019_--_2152.jpg",
+        "retrievedAt": "2026-08-26",
+        "creator": "Dietmar Rabich",
+        "licenseID": "CC-BY-SA-4.0",
+        "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "creditLine": "Dietmar Rabich / Wikimedia Commons, CC BY-SA 4.0"
+      },
+      "transforms": [
+        "downloaded from Wikimedia Commons and normalized to a maximum 2400 px edge for Daydream"
+      ]
+    },
+    {
+      "id": "taj-front",
+      "path": "assets/taj-mahal-front.jpg",
+      "sha256": "3638ca3a93314c71e495c6d50dc191d61d4281140dc52f3391b0eb844031fa93",
+      "mediaType": "image/jpeg",
+      "width": 2400,
+      "height": 1578,
+      "rightsClass": "open_packaged",
+      "source": {
+        "title": "Taj Mahal, Agra, India edit2.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Taj_Mahal,_Agra,_India_edit2.jpg",
+        "retrievedAt": "2026-08-26",
+        "creator": "Yann; edited by King of Hearts",
+        "licenseID": "CC-BY-SA-4.0",
+        "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "creditLine": "Yann; edited by King of Hearts / Wikimedia Commons, CC BY-SA 4.0"
+      },
+      "transforms": [
+        "downloaded from Wikimedia Commons and normalized to a maximum 2400 px edge for Daydream"
+      ]
+    },
+    {
+      "id": "taj-arch",
+      "path": "assets/taj-mahal-arch.jpg",
+      "sha256": "92ec194048e35f0f1ba17028b815309c7b2ccad21869cf308da08215ab9e9e36",
+      "mediaType": "image/jpeg",
+      "width": 2400,
+      "height": 1673,
+      "rightsClass": "open_packaged",
+      "source": {
+        "title": "Arch, Taj Mahal, Agra, India.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Arch,_Taj_Mahal,_Agra,_India.jpg",
+        "retrievedAt": "2026-08-26",
+        "creator": "Yann",
+        "licenseID": "CC-BY-SA-4.0",
+        "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "creditLine": "Yann / Wikimedia Commons, CC BY-SA 4.0"
+      },
+      "transforms": [
+        "downloaded from Wikimedia Commons and normalized to a maximum 2400 px edge for Daydream"
+      ]
+    },
+    {
+      "id": "pantheon-exterior",
+      "path": "assets/pantheon-exterior.jpg",
+      "sha256": "9b5555b974892380a083ccd84e237bab095abd8749c7074a00327d12acde83a1",
+      "mediaType": "image/jpeg",
+      "width": 2400,
+      "height": 1800,
+      "rightsClass": "open_packaged",
+      "source": {
+        "title": "Pantheon-Rome-May-2009.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Pantheon-Rome-May-2009.jpg",
+        "retrievedAt": "2026-08-26",
+        "creator": "Acediscovery",
+        "licenseID": "CC-BY-4.0",
+        "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+        "creditLine": "Acediscovery / Wikimedia Commons, CC BY 4.0"
+      },
+      "transforms": [
+        "downloaded from Wikimedia Commons and normalized to a maximum 2400 px edge for Daydream"
+      ]
+    },
+    {
+      "id": "pantheon-dome",
+      "path": "assets/pantheon-dome.jpg",
+      "sha256": "b994001d2606bd905c75caf7f3daee9f94621efcc2612bffe350b9e052c0878e",
+      "mediaType": "image/jpeg",
+      "width": 2400,
+      "height": 2053,
+      "rightsClass": "open_packaged",
+      "source": {
+        "title": "Pantheon (Rome), Dome interior.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Pantheon_(Rome),_Dome_interior.jpg",
+        "retrievedAt": "2026-08-26",
+        "creator": "Wilfredor",
+        "licenseID": "CC0-1.0",
+        "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "creditLine": "Wilfredor / Wikimedia Commons, CC0"
+      },
+      "transforms": [
+        "downloaded from Wikimedia Commons and normalized to a maximum 2400 px edge for Daydream"
+      ]
+    },
+    {
+      "id": "bradbury-exterior",
+      "path": "assets/bradbury-exterior.jpg",
+      "sha256": "682aebb2e43b20b5383684601393eabf75a86abfea88c8d19c20ee8c439a75f3",
+      "mediaType": "image/jpeg",
+      "width": 1800,
+      "height": 2400,
+      "rightsClass": "open_packaged",
+      "source": {
+        "title": "Bradbury Building Los Angeles (149037821).jpeg",
+        "url": "https://commons.wikimedia.org/wiki/File:Bradbury_Building_Los_Angeles_(149037821).jpeg",
+        "retrievedAt": "2026-08-26",
+        "creator": "Eli Cochran",
+        "licenseID": "CC-BY-3.0",
+        "licenseURL": "https://creativecommons.org/licenses/by/3.0/",
+        "creditLine": "Eli Cochran / Wikimedia Commons, CC BY 3.0"
+      },
+      "transforms": [
+        "downloaded from Wikimedia Commons and normalized to a maximum 2400 px edge for Daydream"
+      ]
+    },
+    {
+      "id": "bradbury-atrium",
+      "path": "assets/bradbury-atrium.jpg",
+      "sha256": "bfdebc42ac5817b604a316a4e8e635741c9e22f7a3fa0315a8c2125b341c1297",
+      "mediaType": "image/jpeg",
+      "width": 2400,
+      "height": 1596,
+      "rightsClass": "open_packaged",
+      "source": {
+        "title": "Bradbury Building interior 03.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Bradbury_Building_interior_03.jpg",
+        "retrievedAt": "2026-08-26",
+        "creator": "Levi Clancy",
+        "licenseID": "CC-BY-SA-4.0",
+        "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "creditLine": "Levi Clancy / Wikimedia Commons, CC BY-SA 4.0"
+      },
+      "transforms": [
+        "downloaded from Wikimedia Commons and normalized to a maximum 2400 px edge for Daydream"
+      ]
+    },
+    {
+      "id": "sidi-courtyard",
+      "path": "assets/sidi-driss-courtyard.jpg",
+      "sha256": "cb39e60df3926b0daab17de2353fa8921f1c4af6817a50f6ab848fb1d5ca79fb",
+      "mediaType": "image/jpeg",
+      "width": 2400,
+      "height": 1592,
+      "rightsClass": "open_packaged",
+      "source": {
+        "title": "Hôtel, Sidi Driss, Star Wars, mars 2022, DSC 2273.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:H%C3%B4tel,_Sidi_Driss,_Star_Wars,_mars_2022,_DSC_2273.jpg",
+        "retrievedAt": "2026-08-26",
+        "creator": "Habib M'henni",
+        "licenseID": "CC-BY-SA-4.0",
+        "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "creditLine": "Habib M'henni / Wikimedia Commons, CC BY-SA 4.0"
+      },
+      "transforms": [
+        "downloaded from Wikimedia Commons and normalized to a maximum 2400 px edge for Daydream"
+      ]
+    },
+    {
+      "id": "sidi-interior",
+      "path": "assets/sidi-driss-interior.jpg",
+      "sha256": "f05c4a41cc086d6b470023860898c16982049528ab91543827c1b30b90ae63ac",
+      "mediaType": "image/jpeg",
+      "width": 2400,
+      "height": 1800,
+      "rightsClass": "open_packaged",
+      "source": {
+        "title": "Hôtel, Sidi Driss, Star Wars 02.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:H%C3%B4tel,_Sidi_Driss,_Star_Wars_02.jpg",
+        "retrievedAt": "2026-08-26",
+        "creator": "TOUMOU",
+        "licenseID": "CC-BY-SA-4.0",
+        "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "creditLine": "TOUMOU / Wikimedia Commons, CC BY-SA 4.0"
+      },
+      "transforms": [
+        "downloaded from Wikimedia Commons and normalized to a maximum 2400 px edge for Daydream"
+      ]
+    },
+    {
+      "id": "wadi-massif",
+      "path": "assets/wadi-rum-massif.jpg",
+      "sha256": "df4846cc176fd632e4e24f6583dc8ad8ccc078b90536be7d76779f0023a0cb9c",
+      "mediaType": "image/jpeg",
+      "width": 2400,
+      "height": 1593,
+      "rightsClass": "open_packaged",
+      "source": {
+        "title": "Wadi Rum landscape (12465078394).jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Wadi_Rum_landscape_(12465078394).jpg",
+        "retrievedAt": "2026-08-26",
+        "creator": "Jorge Láscar",
+        "licenseID": "CC-BY-2.0",
+        "licenseURL": "https://creativecommons.org/licenses/by/2.0/",
+        "creditLine": "Jorge Láscar / Wikimedia Commons, CC BY 2.0"
+      },
+      "transforms": [
+        "downloaded from Wikimedia Commons and normalized to a maximum 2400 px edge for Daydream"
+      ]
+    },
+    {
+      "id": "wadi-red-sand",
+      "path": "assets/wadi-rum-red-sand.jpg",
+      "sha256": "712ec34db1c6dcc8e030eaf754b8b6a3069af0d25e59a4fc66e5edc8369ab5dd",
+      "mediaType": "image/jpeg",
+      "width": 2400,
+      "height": 1800,
+      "rightsClass": "open_packaged",
+      "source": {
+        "title": "Red sand of the Wadi Rum desert.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Red_sand_of_the_Wadi_Rum_desert.jpg",
+        "retrievedAt": "2026-08-26",
+        "creator": "John Romano D'Orazio",
+        "licenseID": "CC-BY-SA-4.0",
+        "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "creditLine": "John Romano D'Orazio / Wikimedia Commons, CC BY-SA 4.0"
+      },
+      "transforms": [
+        "downloaded from Wikimedia Commons and normalized to a maximum 2400 px edge for Daydream"
+      ]
+    },
+    {
+      "id": "gorlitz-exterior",
+      "path": "assets/gorlitz-department-store.jpg",
+      "sha256": "7ef5f17a8a16406b41b6ba20897bbbaa5b2cdba08112bef9bb2e8c238021e24e",
+      "mediaType": "image/jpeg",
+      "width": 2400,
+      "height": 1800,
+      "rightsClass": "open_packaged",
+      "source": {
+        "title": "Görlitz Kaufhaus 2008 3.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:G%C3%B6rlitz_Kaufhaus_2008_3.jpg",
+        "retrievedAt": "2026-08-26",
+        "creator": "Andreas Praefcke",
+        "licenseID": "CC-BY-3.0",
+        "licenseURL": "https://creativecommons.org/licenses/by/3.0/",
+        "creditLine": "Andreas Praefcke / Wikimedia Commons, CC BY 3.0"
+      },
+      "transforms": [
+        "downloaded from Wikimedia Commons and normalized to a maximum 2400 px edge for Daydream"
+      ]
+    },
+    {
+      "id": "gorlitz-atrium",
+      "path": "assets/gorlitz-atrium.jpg",
+      "sha256": "121ae438c2cceaaed77402476fdc0a533532b3bc70d16d6b9411f39949857c03",
+      "mediaType": "image/jpeg",
+      "width": 2400,
+      "height": 1600,
+      "rightsClass": "open_packaged",
+      "source": {
+        "title": "Goerlitz karstadt lichthof.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Goerlitz_karstadt_lichthof.jpg",
+        "retrievedAt": "2026-08-26",
+        "creator": "Hans Peter Schaefer",
+        "licenseID": "CC-BY-SA-3.0",
+        "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "creditLine": "Hans Peter Schaefer / Wikimedia Commons, CC BY-SA 3.0"
+      },
+      "transforms": [
+        "downloaded from Wikimedia Commons and normalized to a maximum 2400 px edge for Daydream"
       ]
     }
   ]
