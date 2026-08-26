@@ -1,6 +1,6 @@
 {
-  "contentRevision": 1787704666,
-  "contentVersion": "1.1.0",
+  "contentRevision": 1787714553,
+  "contentVersion": "1.3.0",
   "assets": [
     {
       "id": "duomo-sunset",
@@ -26,22 +26,22 @@
     {
       "id": "duomo-cutaway",
       "path": "assets/duomo-cutaway.jpg",
-      "sha256": "3169ab7cda853613f1f5062355bf6a3148f6c3ed4120d2e57f84f0aed9adbd16",
+      "sha256": "eeccb54dab6235a379e3d027c30bbb3007263a2436c506802d37484bce8fb27c",
       "mediaType": "image/jpeg",
-      "width": 396,
-      "height": 542,
+      "width": 1800,
+      "height": 2600,
       "rightsClass": "open_packaged",
       "source": {
-        "title": "Brunelleschi's dome cutaway",
-        "url": "https://commons.wikimedia.org/wiki/File:Filippo_Brunelleschi,_cutaway_of_the_Dome_of_Florence_Cathedral_(Santa_Maria_del_Fiore).JPG",
-        "retrievedAt": "2026-08-25",
-        "creator": "Unknown historical illustrator",
+        "title": "Cross-section of the dome of Santa Maria del Fiore",
+        "url": "https://www.rijksmuseum.nl/en/collection/object/Dwarsdoorsnede%2Bvan%2Bde%2Bkoepel%2Bvan%2Bde%2BSanta%2BMaria%2Bdel%2BFiore%2Bte%2BFlorence--635f32fdb000324c59648508ea56a9de",
+        "retrievedAt": "2026-08-26",
+        "creator": "Bernardo Sansone Sgrilli, after Giovanni Battista Nelli",
         "licenseID": "PDM-1.0",
         "licenseURL": "https://creativecommons.org/publicdomain/mark/1.0/",
-        "creditLine": "Wikimedia Commons, Public domain"
+        "creditLine": "Rijksmuseum, public domain"
       },
       "transforms": [
-        "resized for Daydream content package"
+        "downloaded from the Rijksmuseum IIIF service at 1800 px width for Daydream content package"
       ]
     },
     {
