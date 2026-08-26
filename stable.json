@@ -1,11 +1,11 @@
 {
   "manifestVersion": 1,
-  "contentRevision": 1787704074,
-  "contentVersion": "1.0.0",
+  "contentRevision": 1787704075,
+  "contentVersion": "1.1.0",
   "minAppBuild": 7,
-  "downloadURL": "https://github.com/ykopp/daydream-content/releases/download/content-r1787704074/daydream-content-r1787704074.zip",
-  "bytes": 24230007,
-  "sha256": "ce2d89b370fa051b1e221c9c5ffe2ee88e2873c10bf6efacb86c44f95aec5b65",
-  "signature": "00xjdKL3AMFKctaDRzPUoL4rqwnfygjPnfk9QjUqdkR7l4sh2CPy5IfedEraKnK8cOsWI0yu2vNO7Lmuifp6CA==",
+  "downloadURL": "https://github.com/ykopp/daydream-content/releases/download/content-r1787704075/daydream-content-r1787704075.zip",
+  "bytes": 24230573,
+  "sha256": "872c5d0a3043c191511f4f122925639c550f47d238d66503a555fb9099bf9f4a",
+  "signature": "Q9yNF7qmk8Kgom6AqMtWeKAWFYEsn9y0Zi5xc8+t97sRjD92kZjosG2A91Nar77mlyVGTUhk6eC0uMn3UYIQBg==",
   "keyID": "content-current"
 }
