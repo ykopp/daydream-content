@@ -3,7 +3,7 @@ name: Publish Daydream stable pointer
 on:
   push:
     branches: [main]
-    paths: [stable.json, sha256.json, rights-ledger.json, .github/workflows/publish-pages.yml]
+    paths: [stable.json, app-stable.json, sha256.json, rights-ledger.json, .github/workflows/publish-pages.yml]
   workflow_dispatch:
 
 permissions:
