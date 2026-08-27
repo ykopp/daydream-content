@@ -1,9 +1,9 @@
 {
   "manifestVersion": 1,
-  "version": "2.3.4",
-  "build": 11,
-  "releaseURL": "https://github.com/ykopp/daydream-content/releases/tag/app-v2.3.4-b11",
-  "downloadURL": "https://github.com/ykopp/daydream-content/releases/download/app-v2.3.4-b11/Daydream-2.3.4-b11.app.zip",
-  "publishedAt": "2026-08-27T03:59:14Z",
-  "sha256": "bfec4e687359c88bded534157b06a6bc23968309a80bf3cc2e94e6a120624442"
+  "version": "2.3.5",
+  "build": 12,
+  "releaseURL": "https://github.com/ykopp/daydream-content/releases/tag/app-v2.3.5-b12",
+  "downloadURL": "https://github.com/ykopp/daydream-content/releases/download/app-v2.3.5-b12/Daydream-2.3.5-b12.app.zip",
+  "publishedAt": "2026-08-27T04:17:52Z",
+  "sha256": "4a0996633fadc7be753d2bcc7cbed0e48ba8c5b0f210e39b88bdb9f8dd4c34ae"
 }
