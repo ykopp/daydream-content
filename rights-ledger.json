@@ -1,6 +1,6 @@
 {
-  "contentRevision": 1787733161,
-  "contentVersion": "1.4.2",
+  "contentRevision": 1788163921,
+  "contentVersion": "1.5.0",
   "assets": [
     {
       "id": "duomo-sunset",
@@ -630,6 +630,90 @@
       },
       "transforms": [
         "downloaded from Wikimedia Commons and normalized to a maximum 2400 px edge for Daydream"
+      ]
+    },
+    {
+      "id": "met-gallery-section",
+      "path": "assets/met-gallery-section.jpg",
+      "sha256": "ab7d0ada13368f3f80b92505c31fc01fc71588f14f4aef7c001be2c40006d73a",
+      "mediaType": "image/jpeg",
+      "width": 2400,
+      "height": 1364,
+      "rightsClass": "open_packaged",
+      "source": {
+        "title": "Section of a \"Galerie dans le palais d'un souverain\"",
+        "url": "https://www.metmuseum.org/art/collection/search/362248",
+        "retrievedAt": "2026-08-31",
+        "creator": "Charles Pierre Joseph Normand",
+        "licenseID": "CC0-1.0",
+        "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "creditLine": "Charles Pierre Joseph Normand, The Metropolitan Museum of Art, CC0"
+      },
+      "transforms": [
+        "downloaded from the listed open-access collection and normalized to a maximum 2400 px edge for Daydream"
+      ]
+    },
+    {
+      "id": "met-corinthian-temple-section",
+      "path": "assets/met-corinthian-temple-section.jpg",
+      "sha256": "c31c2caf1adfb5483e13909a7b9d0a04815fee5e04e59d17d96704263143b1c9",
+      "mediaType": "image/jpeg",
+      "width": 2400,
+      "height": 1497,
+      "rightsClass": "open_packaged",
+      "source": {
+        "title": "Design for a Section of a Domed Corinthian Temple",
+        "url": "https://www.metmuseum.org/art/collection/search/343083",
+        "retrievedAt": "2026-08-31",
+        "creator": "Pierre Mathieu",
+        "licenseID": "CC0-1.0",
+        "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "creditLine": "Pierre Mathieu, The Metropolitan Museum of Art, CC0"
+      },
+      "transforms": [
+        "downloaded from the listed open-access collection and normalized to a maximum 2400 px edge for Daydream"
+      ]
+    },
+    {
+      "id": "loc-washington-1871",
+      "path": "assets/loc-washington-1871.jpg",
+      "sha256": "eaa68d1e1e671ba643eeef3a298a0c6565637e4df8d923be594a20bfaa20438c",
+      "mediaType": "image/jpeg",
+      "width": 2400,
+      "height": 1746,
+      "rightsClass": "open_packaged",
+      "source": {
+        "title": "View of Washington City",
+        "url": "https://www.loc.gov/item/90683459/",
+        "retrievedAt": "2026-08-31",
+        "creator": "E. Sachse & Co.",
+        "licenseID": "LicenseRef-LOC-Free-to-Use",
+        "licenseURL": "https://www.loc.gov/free-to-use/maps-of-cities/",
+        "creditLine": "Library of Congress, Geography and Map Division"
+      },
+      "transforms": [
+        "downloaded from the listed open-access collection and normalized to a maximum 2400 px edge for Daydream"
+      ]
+    },
+    {
+      "id": "loc-seattle-1891",
+      "path": "assets/loc-seattle-1891.jpg",
+      "sha256": "769592610d9b63876c0071d0fbdeee3dafb977a5380324688abfb61c9803c62b",
+      "mediaType": "image/jpeg",
+      "width": 2400,
+      "height": 1624,
+      "rightsClass": "open_packaged",
+      "source": {
+        "title": "Birds-eye-view of Seattle and environs King County, Wash., 1891",
+        "url": "https://www.loc.gov/item/75696663/",
+        "retrievedAt": "2026-08-31",
+        "creator": "Augustus Koch",
+        "licenseID": "LicenseRef-LOC-Free-to-Use",
+        "licenseURL": "https://www.loc.gov/free-to-use/maps-of-cities/",
+        "creditLine": "Library of Congress, Geography and Map Division"
+      },
+      "transforms": [
+        "downloaded from the listed open-access collection and normalized to a maximum 2400 px edge for Daydream"
       ]
     }
   ]
