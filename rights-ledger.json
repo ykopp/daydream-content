@@ -1,6 +1,6 @@
 {
-  "contentRevision": 1788163921,
-  "contentVersion": "1.5.0",
+  "contentRevision": 1788600323,
+  "contentVersion": "1.5.2",
   "assets": [
     {
       "id": "duomo-sunset",
@@ -20,7 +20,7 @@
         "creditLine": "Vyacheslav Argenberg / Wikimedia Commons, CC BY 4.0"
       },
       "transforms": [
-        "resized for Daydream content package"
+        "resized for Sightline content package"
       ]
     },
     {
@@ -41,7 +41,7 @@
         "creditLine": "Rijksmuseum, public domain"
       },
       "transforms": [
-        "downloaded from the Rijksmuseum IIIF service at 1800 px width for Daydream content package"
+        "downloaded from the Rijksmuseum IIIF service at 1800 px width for Sightline content package"
       ]
     },
     {
@@ -62,7 +62,7 @@
         "creditLine": "NASA Image 6900540"
       },
       "transforms": [
-        "resized for Daydream content package"
+        "resized for Sightline content package"
       ]
     },
     {
@@ -83,7 +83,7 @@
         "creditLine": "NASA Image 9903403"
       },
       "transforms": [
-        "resized for Daydream content package"
+        "resized for Sightline content package"
       ]
     },
     {
@@ -104,7 +104,7 @@
         "creditLine": "NASA"
       },
       "transforms": [
-        "resized for Daydream content package"
+        "resized for Sightline content package"
       ]
     },
     {
@@ -125,7 +125,7 @@
         "creditLine": "NASA/JPL-Caltech/Space Science Institute"
       },
       "transforms": [
-        "resized for Daydream content package"
+        "resized for Sightline content package"
       ]
     },
     {
@@ -146,7 +146,7 @@
         "creditLine": "Wikimedia Commons, Public domain"
       },
       "transforms": [
-        "resized for Daydream content package"
+        "resized for Sightline content package"
       ]
     },
     {
@@ -167,7 +167,7 @@
         "creditLine": "Wikimedia Commons, Public domain"
       },
       "transforms": [
-        "resized for Daydream content package"
+        "resized for Sightline content package"
       ]
     },
     {
@@ -188,7 +188,7 @@
         "creditLine": "The Metropolitan Museum of Art, CC0"
       },
       "transforms": [
-        "resized for Daydream content package"
+        "resized for Sightline content package"
       ]
     },
     {
@@ -209,7 +209,7 @@
         "creditLine": "The Metropolitan Museum of Art, CC0"
       },
       "transforms": [
-        "resized for Daydream content package"
+        "resized for Sightline content package"
       ]
     },
     {
@@ -230,7 +230,7 @@
         "creditLine": "Wikimedia Commons, Public domain"
       },
       "transforms": [
-        "resized for Daydream content package"
+        "resized for Sightline content package"
       ]
     },
     {
@@ -251,7 +251,7 @@
         "creditLine": "Daderot / Wikimedia Commons, CC0"
       },
       "transforms": [
-        "resized for Daydream content package"
+        "resized for Sightline content package"
       ]
     },
     {
@@ -272,7 +272,7 @@
         "creditLine": "Alf van Beem, CC0"
       },
       "transforms": [
-        "resized for Daydream content package"
+        "resized for Sightline content package"
       ]
     },
     {
@@ -293,7 +293,7 @@
         "creditLine": "Wikimedia Commons, Public domain"
       },
       "transforms": [
-        "resized for Daydream content package"
+        "resized for Sightline content package"
       ]
     },
     {
@@ -314,7 +314,7 @@
         "creditLine": "Maksim Sokolov (maxergon.com) / Wikimedia Commons, CC BY-SA 4.0"
       },
       "transforms": [
-        "downloaded from Wikimedia Commons and normalized to a maximum 2400 px edge for Daydream"
+        "downloaded from Wikimedia Commons and normalized to a maximum 2400 px edge for Sightline"
       ]
     },
     {
@@ -335,7 +335,7 @@
         "creditLine": "Louis-Émile Durandelle / Wikimedia Commons, Public domain"
       },
       "transforms": [
-        "downloaded from Wikimedia Commons and normalized to a maximum 2400 px edge for Daydream"
+        "downloaded from Wikimedia Commons and normalized to a maximum 2400 px edge for Sightline"
       ]
     },
     {
@@ -356,7 +356,7 @@
         "creditLine": "Dietmar Rabich / Wikimedia Commons, CC BY-SA 4.0"
       },
       "transforms": [
-        "downloaded from Wikimedia Commons and normalized to a maximum 2400 px edge for Daydream"
+        "downloaded from Wikimedia Commons and normalized to a maximum 2400 px edge for Sightline"
       ]
     },
     {
@@ -377,7 +377,7 @@
         "creditLine": "Dietmar Rabich / Wikimedia Commons, CC BY-SA 4.0"
       },
       "transforms": [
-        "downloaded from Wikimedia Commons and normalized to a maximum 2400 px edge for Daydream"
+        "downloaded from Wikimedia Commons and normalized to a maximum 2400 px edge for Sightline"
       ]
     },
     {
@@ -398,7 +398,7 @@
         "creditLine": "Yann; edited by King of Hearts / Wikimedia Commons, CC BY-SA 4.0"
       },
       "transforms": [
-        "downloaded from Wikimedia Commons and normalized to a maximum 2400 px edge for Daydream"
+        "downloaded from Wikimedia Commons and normalized to a maximum 2400 px edge for Sightline"
       ]
     },
     {
@@ -419,7 +419,7 @@
         "creditLine": "Yann / Wikimedia Commons, CC BY-SA 4.0"
       },
       "transforms": [
-        "downloaded from Wikimedia Commons and normalized to a maximum 2400 px edge for Daydream"
+        "downloaded from Wikimedia Commons and normalized to a maximum 2400 px edge for Sightline"
       ]
     },
     {
@@ -440,7 +440,7 @@
         "creditLine": "Acediscovery / Wikimedia Commons, CC BY 4.0"
       },
       "transforms": [
-        "downloaded from Wikimedia Commons and normalized to a maximum 2400 px edge for Daydream"
+        "downloaded from Wikimedia Commons and normalized to a maximum 2400 px edge for Sightline"
       ]
     },
     {
@@ -461,7 +461,7 @@
         "creditLine": "Wilfredor / Wikimedia Commons, CC0"
       },
       "transforms": [
-        "downloaded from Wikimedia Commons and normalized to a maximum 2400 px edge for Daydream"
+        "downloaded from Wikimedia Commons and normalized to a maximum 2400 px edge for Sightline"
       ]
     },
     {
@@ -482,7 +482,7 @@
         "creditLine": "Eli Cochran / Wikimedia Commons, CC BY 3.0"
       },
       "transforms": [
-        "downloaded from Wikimedia Commons and normalized to a maximum 2400 px edge for Daydream"
+        "downloaded from Wikimedia Commons and normalized to a maximum 2400 px edge for Sightline"
       ]
     },
     {
@@ -503,7 +503,7 @@
         "creditLine": "Levi Clancy / Wikimedia Commons, CC BY-SA 4.0"
       },
       "transforms": [
-        "downloaded from Wikimedia Commons and normalized to a maximum 2400 px edge for Daydream"
+        "downloaded from Wikimedia Commons and normalized to a maximum 2400 px edge for Sightline"
       ]
     },
     {
@@ -524,7 +524,7 @@
         "creditLine": "Habib M'henni / Wikimedia Commons, CC BY-SA 4.0"
       },
       "transforms": [
-        "downloaded from Wikimedia Commons and normalized to a maximum 2400 px edge for Daydream"
+        "downloaded from Wikimedia Commons and normalized to a maximum 2400 px edge for Sightline"
       ]
     },
     {
@@ -545,7 +545,7 @@
         "creditLine": "TOUMOU / Wikimedia Commons, CC BY-SA 4.0"
       },
       "transforms": [
-        "downloaded from Wikimedia Commons and normalized to a maximum 2400 px edge for Daydream"
+        "downloaded from Wikimedia Commons and normalized to a maximum 2400 px edge for Sightline"
       ]
     },
     {
@@ -566,7 +566,7 @@
         "creditLine": "Jorge Láscar / Wikimedia Commons, CC BY 2.0"
       },
       "transforms": [
-        "downloaded from Wikimedia Commons and normalized to a maximum 2400 px edge for Daydream"
+        "downloaded from Wikimedia Commons and normalized to a maximum 2400 px edge for Sightline"
       ]
     },
     {
@@ -587,7 +587,7 @@
         "creditLine": "John Romano D'Orazio / Wikimedia Commons, CC BY-SA 4.0"
       },
       "transforms": [
-        "downloaded from Wikimedia Commons and normalized to a maximum 2400 px edge for Daydream"
+        "downloaded from Wikimedia Commons and normalized to a maximum 2400 px edge for Sightline"
       ]
     },
     {
@@ -608,7 +608,7 @@
         "creditLine": "Andreas Praefcke / Wikimedia Commons, CC BY 3.0"
       },
       "transforms": [
-        "downloaded from Wikimedia Commons and normalized to a maximum 2400 px edge for Daydream"
+        "downloaded from Wikimedia Commons and normalized to a maximum 2400 px edge for Sightline"
       ]
     },
     {
@@ -629,7 +629,7 @@
         "creditLine": "Hans Peter Schaefer / Wikimedia Commons, CC BY-SA 3.0"
       },
       "transforms": [
-        "downloaded from Wikimedia Commons and normalized to a maximum 2400 px edge for Daydream"
+        "downloaded from Wikimedia Commons and normalized to a maximum 2400 px edge for Sightline"
       ]
     },
     {
@@ -650,7 +650,7 @@
         "creditLine": "Charles Pierre Joseph Normand, The Metropolitan Museum of Art, CC0"
       },
       "transforms": [
-        "downloaded from the listed open-access collection and normalized to a maximum 2400 px edge for Daydream"
+        "downloaded from the listed open-access collection and normalized to a maximum 2400 px edge for Sightline"
       ]
     },
     {
@@ -671,7 +671,7 @@
         "creditLine": "Pierre Mathieu, The Metropolitan Museum of Art, CC0"
       },
       "transforms": [
-        "downloaded from the listed open-access collection and normalized to a maximum 2400 px edge for Daydream"
+        "downloaded from the listed open-access collection and normalized to a maximum 2400 px edge for Sightline"
       ]
     },
     {
@@ -692,7 +692,7 @@
         "creditLine": "Library of Congress, Geography and Map Division"
       },
       "transforms": [
-        "downloaded from the listed open-access collection and normalized to a maximum 2400 px edge for Daydream"
+        "downloaded from the listed open-access collection and normalized to a maximum 2400 px edge for Sightline"
       ]
     },
     {
@@ -713,7 +713,7 @@
         "creditLine": "Library of Congress, Geography and Map Division"
       },
       "transforms": [
-        "downloaded from the listed open-access collection and normalized to a maximum 2400 px edge for Daydream"
+        "downloaded from the listed open-access collection and normalized to a maximum 2400 px edge for Sightline"
       ]
     }
   ]
