@@ -1,6 +1,6 @@
 {
-  "contentRevision": 1788600323,
-  "contentVersion": "1.5.2",
+  "contentRevision": 1788752943,
+  "contentVersion": "1.6.0",
   "assets": [
     {
       "id": "duomo-sunset",
@@ -714,6 +714,258 @@
       },
       "transforms": [
         "downloaded from the listed open-access collection and normalized to a maximum 2400 px edge for Sightline"
+      ]
+    },
+    {
+      "id": "richat-landsat-2026",
+      "path": "assets/richat-landsat-2026.jpg",
+      "sha256": "ff275d86761c28e914aeebcf218d33ae35289f3b3a1fb2ffec70eefdc289f848",
+      "mediaType": "image/jpeg",
+      "width": 4022,
+      "height": 2681,
+      "rightsClass": "open_packaged",
+      "source": {
+        "title": "Eyeing the Richat Structure",
+        "url": "https://science.nasa.gov/earth/earth-observatory/eyeing-the-richat-structure/",
+        "retrievedAt": "2026-09-07",
+        "creator": "NASA Earth Observatory / Lauren Dauphin; Landsat data: USGS",
+        "licenseID": "LicenseRef-NASA-Media",
+        "licenseURL": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "creditLine": "NASA Earth Observatory / Lauren Dauphin; Landsat data: USGS"
+      },
+      "transforms": [
+        "Original institutional download retained without local crop or color adjustment"
+      ]
+    },
+    {
+      "id": "richat-iss-2020",
+      "path": "assets/richat-iss-2020.jpg",
+      "sha256": "2824cea5c26dae5e17f4924d13983ddf1f52298a9acae059bc46e5825ac44b17",
+      "mediaType": "image/jpeg",
+      "width": 5011,
+      "height": 3341,
+      "rightsClass": "open_packaged",
+      "source": {
+        "title": "The Eye of the Sahara",
+        "url": "https://science.nasa.gov/earth/earth-observatory/the-eye-of-sahara-150060/",
+        "retrievedAt": "2026-09-07",
+        "creator": "NASA / ISS Expedition 63 crew / Johnson Space Center",
+        "licenseID": "LicenseRef-NASA-Media",
+        "licenseURL": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "creditLine": "NASA / ISS Expedition 63 crew / Johnson Space Center"
+      },
+      "transforms": [
+        "Original institutional download retained without local crop or color adjustment"
+      ]
+    },
+    {
+      "id": "lena-landsat-2022",
+      "path": "assets/lena-landsat-2022.jpg",
+      "sha256": "ad7d2dfcc2b2c012b94d6dc096c291f931c54f5d7ecb7cfc982873987f1b7163",
+      "mediaType": "image/jpeg",
+      "width": 6290,
+      "height": 6417,
+      "rightsClass": "open_packaged",
+      "source": {
+        "title": "Lena River Sedimentation",
+        "url": "https://science.nasa.gov/earth/earth-observatory/lena-river-sedimentation-150076/",
+        "retrievedAt": "2026-09-07",
+        "creator": "NASA Earth Observatory / Joshua Stevens; Landsat data: USGS",
+        "licenseID": "LicenseRef-NASA-Media",
+        "licenseURL": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "creditLine": "NASA Earth Observatory / Joshua Stevens; Landsat data: USGS"
+      },
+      "transforms": [
+        "Original institutional download retained without local crop or color adjustment"
+      ]
+    },
+    {
+      "id": "laptev-aqua-2020",
+      "path": "assets/laptev-aqua-2020.jpg",
+      "sha256": "d0de723f1c40ae5377919f0d2996b59ae1e04dec919f29e1b074a5a15d469192",
+      "mediaType": "image/jpeg",
+      "width": 3882,
+      "height": 3702,
+      "rightsClass": "open_packaged",
+      "source": {
+        "title": "A Lush Laptev Palette",
+        "url": "https://science.nasa.gov/earth/earth-observatory/a-lush-laptev-palette-147388/",
+        "retrievedAt": "2026-09-07",
+        "creator": "NASA / Norman Kuring / Ocean Color Web; MODIS data: NASA EOSDIS/LANCE and GIBS/Worldview",
+        "licenseID": "LicenseRef-NASA-Media",
+        "licenseURL": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "creditLine": "NASA / Norman Kuring / Ocean Color Web; MODIS data: NASA EOSDIS/LANCE and GIBS/Worldview"
+      },
+      "transforms": [
+        "Original institutional download retained without local crop or color adjustment"
+      ]
+    },
+    {
+      "id": "apollo15-rover-parked",
+      "path": "assets/apollo15-rover-parked.jpg",
+      "sha256": "b6eea817898e62f7fe2971e3085d6de22b203cf7529571d217fc125324319f1c",
+      "mediaType": "image/jpeg",
+      "width": 1041,
+      "height": 1089,
+      "rightsClass": "open_packaged",
+      "source": {
+        "title": "First Use of the Lunar Roving Vehicle — July 31, 1971",
+        "url": "https://www.nasa.gov/image-article/this-week-nasa-history-first-use-of-lunar-roving-vehicle-july-31-1971/",
+        "retrievedAt": "2026-09-07",
+        "creator": "NASA / Apollo 15",
+        "licenseID": "LicenseRef-NASA-Media",
+        "licenseURL": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "creditLine": "NASA / Apollo 15"
+      },
+      "transforms": [
+        "Original institutional download retained without local crop or color adjustment"
+      ]
+    },
+    {
+      "id": "apollo15-rover-hadley",
+      "path": "assets/apollo15-rover-hadley.jpg",
+      "sha256": "5f8541739e00b075c9bc996fe573bc6036540e87ba6e958f4bca8c61bd326a0b",
+      "mediaType": "image/jpeg",
+      "width": 4096,
+      "height": 4096,
+      "rightsClass": "open_packaged",
+      "source": {
+        "title": "Apollo 15: James Irwin at the Lunar Roving Vehicle, AS15-86-11603",
+        "url": "https://images.nasa.gov/details/as15-86-11603",
+        "retrievedAt": "2026-09-07",
+        "creator": "NASA / David R. Scott, Apollo 15",
+        "licenseID": "LicenseRef-NASA-Media",
+        "licenseURL": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "creditLine": "NASA / David R. Scott, Apollo 15"
+      },
+      "transforms": [
+        "Original institutional download retained without local crop or color adjustment"
+      ]
+    },
+    {
+      "id": "ingenuity-mastcam-2023",
+      "path": "assets/ingenuity-mastcam-2023.jpg",
+      "sha256": "d591ce4bf6775691bc79d7c7fd7ca20d57df341ddeb1e05e9514e9ed26ccedf5",
+      "mediaType": "image/jpeg",
+      "width": 2274,
+      "height": 1360,
+      "rightsClass": "open_packaged",
+      "source": {
+        "title": "Martian Milestone for Ingenuity",
+        "url": "https://www.nasa.gov/image-article/martian-milestone-for-ingenuity/",
+        "retrievedAt": "2026-09-07",
+        "creator": "NASA/JPL-Caltech/ASU/MSSS",
+        "licenseID": "LicenseRef-JPL-Image-Use",
+        "licenseURL": "https://www.jpl.nasa.gov/jpl-image-use-policy/",
+        "creditLine": "NASA/JPL-Caltech/ASU/MSSS"
+      },
+      "transforms": [
+        "Original institutional download retained without local crop or color adjustment"
+      ]
+    },
+    {
+      "id": "ingenuity-first-shadow",
+      "path": "assets/ingenuity-first-shadow.jpg",
+      "sha256": "0a52747c9b6049bbaedfa48050d224ecb7723dab7f49f0cca4bb28f161cc712f",
+      "mediaType": "image/jpeg",
+      "width": 1041,
+      "height": 781,
+      "rightsClass": "open_packaged",
+      "source": {
+        "title": "Ingenuity’s First Black-and-White Image From the Air",
+        "url": "https://www.nasa.gov/image-article/ingenuitys-first-black-white-image-from-air/",
+        "retrievedAt": "2026-09-07",
+        "creator": "NASA/JPL-Caltech",
+        "licenseID": "LicenseRef-JPL-Image-Use",
+        "licenseURL": "https://www.jpl.nasa.gov/jpl-image-use-policy/",
+        "creditLine": "NASA/JPL-Caltech"
+      },
+      "transforms": [
+        "Original institutional download retained without local crop or color adjustment"
+      ]
+    },
+    {
+      "id": "voyager-neptune-1989",
+      "path": "assets/voyager-neptune-1989.png",
+      "sha256": "13a95b32eb5f83b0f9599da863aed1f10332726995ce6444415423b89230f696",
+      "mediaType": "image/png",
+      "width": 2188,
+      "height": 2185,
+      "rightsClass": "open_packaged",
+      "source": {
+        "title": "Neptune (Voyager 2)",
+        "url": "https://science.nasa.gov/asset/webb/neptune-voyager-2/",
+        "retrievedAt": "2026-09-07",
+        "creator": "NASA, Caltech",
+        "licenseID": "LicenseRef-JPL-Image-Use",
+        "licenseURL": "https://www.jpl.nasa.gov/jpl-image-use-policy/",
+        "creditLine": "NASA, Caltech"
+      },
+      "transforms": [
+        "Original institutional download retained without local crop or color adjustment"
+      ]
+    },
+    {
+      "id": "voyager-triton-1989",
+      "path": "assets/voyager-triton-1989.jpg",
+      "sha256": "722c462a08d1e94fe72696f47006349adc90124141f06e929d421f78014dca80",
+      "mediaType": "image/jpeg",
+      "width": 1041,
+      "height": 1234,
+      "rightsClass": "open_packaged",
+      "source": {
+        "title": "Neptune’s Moon Triton",
+        "url": "https://www.nasa.gov/image-article/neptunes-moon-triton/",
+        "retrievedAt": "2026-09-07",
+        "creator": "NASA/JPL",
+        "licenseID": "LicenseRef-JPL-Image-Use",
+        "licenseURL": "https://www.jpl.nasa.gov/jpl-image-use-policy/",
+        "creditLine": "NASA/JPL"
+      },
+      "transforms": [
+        "Original institutional download retained without local crop or color adjustment"
+      ]
+    },
+    {
+      "id": "iss-expedition1-2000",
+      "path": "assets/iss-expedition1-2000.jpg",
+      "sha256": "dd33e16283c413dd06e13c534f72f14b40f67daac77646a0c83603790c0faaee",
+      "mediaType": "image/jpeg",
+      "width": 1041,
+      "height": 693,
+      "rightsClass": "open_packaged",
+      "source": {
+        "title": "International Space Station at the Start of Expedition 1",
+        "url": "https://www.nasa.gov/image-article/looking-back-international-space-station-start-of-expedition-1/",
+        "retrievedAt": "2026-09-07",
+        "creator": "NASA / STS-97 crew",
+        "licenseID": "LicenseRef-NASA-Media",
+        "licenseURL": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "creditLine": "NASA / STS-97 crew"
+      },
+      "transforms": [
+        "Original institutional download retained without local crop or color adjustment"
+      ]
+    },
+    {
+      "id": "iss-illustration",
+      "path": "assets/iss-illustration.png",
+      "sha256": "25be7f939a4d1f8290d7636992697f8359bbe01244af690fe7c5c930fac38e10",
+      "mediaType": "image/png",
+      "width": 5250,
+      "height": 3022,
+      "rightsClass": "open_packaged",
+      "source": {
+        "title": "International Space Station — illustration",
+        "url": "https://science.nasa.gov/resource/international-space-station/",
+        "retrievedAt": "2026-09-07",
+        "creator": "NASA",
+        "licenseID": "LicenseRef-NASA-Media",
+        "licenseURL": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "creditLine": "NASA"
+      },
+      "transforms": [
+        "Original institutional download retained without local crop or color adjustment"
       ]
     }
   ]

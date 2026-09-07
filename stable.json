@@ -1,11 +1,11 @@
 {
   "manifestVersion": 1,
-  "contentRevision": 1788600323,
-  "contentVersion": "1.5.2",
+  "contentRevision": 1788752943,
+  "contentVersion": "1.6.0",
   "minAppBuild": 7,
-  "downloadURL": "https://github.com/ykopp/daydream-content/releases/download/content-r1788600323/sightline-content-r1788600323.zip",
-  "bytes": 43664919,
-  "sha256": "f7f997c88630799ba88a55418df0dfb2de00c3818aa80efaf5238c173150079f",
-  "signature": "RY/td/10gLrhbH88+2ugRve8g2tntCpQoXmyaQb+otlZDMe2nlD6WymjqYAtLjNY+fRvAkEnDxRXmfK1afrVAw==",
+  "downloadURL": "https://github.com/ykopp/daydream-content/releases/download/content-r1788752943/sightline-content-r1788752943.zip",
+  "bytes": 85139818,
+  "sha256": "1562833e26ae4d9a7c8cbb931aa9c7061d5fd2baddbe897149fa7b05d18c0125",
+  "signature": "i55/Nmu7LUwojIaY0BbqH3M2Eb2/MGGpTHpBr93GHqNPhUZB7iE9HkPrcdmVZCl/eySdotMDzTBf2ob1eg64AA==",
   "keyID": "content-current"
 }
