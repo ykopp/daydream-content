@@ -1,9 +1,9 @@
 {
   "manifestVersion": 1,
-  "version": "2.4.0",
-  "build": 15,
-  "releaseURL": "https://github.com/ykopp/daydream-content/releases/tag/app-v2.4.0-b15",
-  "downloadURL": "https://github.com/ykopp/daydream-content/releases/download/app-v2.4.0-b15/Daydream-2.4.0-b15.app.zip",
-  "publishedAt": "2026-08-31T08:14:17Z",
-  "sha256": "f9b4d08054a1f92adfee34b5b76da63cf00a238c061f315146be92f5a2aba0f2"
+  "version": "3.1.0",
+  "build": 18,
+  "releaseURL": "https://github.com/ykopp/daydream-content/releases/tag/app-v3.1.0-b18",
+  "downloadURL": "https://github.com/ykopp/daydream-content/releases/download/app-v3.1.0-b18/Sightline-3.1.0-b18.app.zip",
+  "publishedAt": "2026-09-07T02:52:55Z",
+  "sha256": "5fe0c1f66a914b11812ab3e59e1bb6e80eab387c58c0ce38f45c09897b133e10"
 }
